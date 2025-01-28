@@ -1,0 +1,2 @@
+1. git init
+2. Nambah remote : git remote add origin {url-remote} 
